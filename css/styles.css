@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+.img-mia {
+    width: 20%;
+    height: 20%;
+    border-radius: 30px;
+}
+
+.letras-footer {
+    margin: 0pt 100pt 10pt;
+    text-align: justify;
+    line-height: normal;
+    color: red;
+}
+
